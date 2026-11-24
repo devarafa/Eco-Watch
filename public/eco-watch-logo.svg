@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Eco Watch logo</title>
+  <defs>
+    <linearGradient id="bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2e9960"/>
+      <stop offset="1" stop-color="#125438"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="20" y1="18" x2="46" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d8f3df"/>
+      <stop offset="1" stop-color="#73c793"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="url(#bg)"/>
+  <circle cx="32" cy="32" r="20" fill="none" stroke="rgba(255,255,255,0.24)" stroke-width="2"/>
+  <path d="M41 19c-12 0-21 7-21 17 0 5 3 9 8 11 1-8 6-13 14-15-6 3-9 7-10 13 6 1 12-2 15-8 3-6 1-13-6-18Z" fill="url(#leaf)"/>
+  <path d="M19 44c5-7 11-12 19-15" fill="none" stroke="#0f3c28" stroke-width="2.4" stroke-linecap="round" opacity="0.55"/>
+  <circle cx="43" cy="22" r="3.2" fill="#f3c95d"/>
+  <path d="M43 14v3M43 27v3M35 22h3M48 22h3" stroke="#f3c95d" stroke-width="2" stroke-linecap="round"/>
+</svg>
